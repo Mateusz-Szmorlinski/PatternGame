@@ -24,8 +24,6 @@ To run the game locally on your computer, follow these steps:
 4. Open HTML file in your browser.
 5. **Have fun!**
 
-### License
 
-This project is available under the MIT License. See the LICENSE file for more information.
 
-Enjoy the game! 🎮
+**Enjoy the game! 🎮**
