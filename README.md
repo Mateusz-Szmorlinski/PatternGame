@@ -2,7 +2,7 @@
 
 ## Description
 
-Pattern Memory Game is a simple "remember and reproduce" application created using HTML, CSS, and JavaScript with the assistance of the jQuery library.
+Pattern Game is a simple "remember and reproduce" application created using HTML, CSS, and JavaScript with the assistance of the jQuery library.
 The player needs to memorize and correctly reproduce a randomly generated sequence of buttons, with the difficulty level increasing with each round.
 
 ## Technologies
