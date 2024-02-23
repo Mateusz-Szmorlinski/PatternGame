@@ -7,22 +7,22 @@ The player needs to memorize and correctly reproduce a randomly generated sequen
 
 ## Technologies
 
-    - HTML
-    - CSS
-    - JavaScript
-    - jQuery
+- HTML
+- CSS
+- JavaScript
+- jQuery
 
 ## How to setup and play
 
 To run the game locally on your computer, follow these steps:
 
-    1. Open cmd and clone repository
-        - `git clone https://github.com/Mateusz-Szmorlinski/PatternGame.git`
-    2. Go to cloned directory.
-    3. Open cmd in directory and install dependiences
-        - `npm install`
-    4. Open HTML file in your browser.
-    5. **Have fun!**
+1. Open cmd and clone repository
+   - `git clone https://github.com/Mateusz-Szmorlinski/PatternGame.git`
+2. Go to cloned directory.
+3. Open cmd in directory and install dependiences
+    - `npm install`
+4. Open HTML file in your browser.
+5. **Have fun!**
 
 ### License
 
